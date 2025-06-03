@@ -1,16 +1,19 @@
 # fitness_app
+Fitness gym app adalah aplikasi mobile yang dirancang untuk membantu pengguna mencapai tujuan kebugaran mereka secara lebih mudah dan terstruktur. Aplikasi ini menyediakan panduan latihan harian, pencatatan progres, dan fitur pelacak kebugaran yang bisa disesuaikan untuk semua level — dari pemula hingga atlet.
 
-A new Flutter project.
+📱 Fitur Utama:
+📆 Jadwal latihan harian & mingguan
+🏋️‍♂️ Panduan latihan berdasarkan kategori (cardio, strength, flexibility)
+📊 Pelacak progres kebugaran (berat badan, kalori, repetisi)
+🍎 Tips nutrisi dan gaya hidup sehat
+🔔 Notifikasi & pengingat waktu latihan
+👤 Profil pengguna & personalisasi target kebugaran
 
-## Getting Started
+🛠️ Teknologi yang Digunakan:
+Framework: Flutter / React Native (pilih sesuai kebutuhan)
+Backend: Firebase / Node.js + Express
+Database: Firestore / MongoDB
+Autentikasi: Firebase Auth / JWT
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Tujuan Proyek:
+Membantu masyarakat menjalani gaya hidup sehat dengan menyediakan alat bantu latihan yang fleksibel, mudah digunakan, dan dapat diakses kapan saja melalui perangkat mobile.
